@@ -1,1 +1,1 @@
-web: python predict.py --log-file=-
+web: python predict.py
