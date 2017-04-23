@@ -1,1 +1,1 @@
-web: gunicorn predict.py --log-file -
+web: python predict.py runserver 0.0.0.0:5000
