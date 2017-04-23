@@ -14,7 +14,6 @@ cycler==0.10.0
 decorator==4.0.11
 entrypoints==0.2.2
 html5lib==0.999
-icu==57.1
 ipykernel==4.6.1
 jinja2==2.9.6
 jpeg==9b
