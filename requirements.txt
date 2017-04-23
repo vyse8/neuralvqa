@@ -16,7 +16,6 @@ entrypoints==0.2.2
 html5lib==0.999
 ipykernel==4.6.1
 jinja2==2.9.6
-jpeg==9b
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.0.1
